@@ -8,6 +8,7 @@
 .parent {
   background-color: orange;
   padding: 16px;
+  box-sizing: border-box;
 }
 
 hr {
@@ -16,7 +17,7 @@ hr {
 
 .child {
   background-color: lime;
-  padding: 2em;
+  padding: 16px;
 }
 
 .container {

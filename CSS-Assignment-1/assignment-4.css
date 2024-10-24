@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+  background-color: yellow;
+}
+
+.parent {
+  background-color: orange;
+  padding: 16px;
+}
+
+hr {
+  margin: 8px 0;
+}
+
+.child {
+  background-color: lime;
+  padding: 16px;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 100vw;
+  background-color: aqua;
+  padding: 16px;
+}
+
+.container-child {
+  background-color: red;
+  height: 50px;
+  /* margin: 8px 0; */
+}
+
+.new-child {
+  width: 90%;
+}
+
+.container h4 {
+  margin: 21.28px 0;
+  background-color: aqua;
+}
